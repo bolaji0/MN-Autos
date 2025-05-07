@@ -767,6 +767,7 @@ header.scrolled {
 /* ===== 9. Contact Section ===== */
 .contact {
   background-color: var(--white);
+  overflow: hidden;
 }
 
 .contact-content {
