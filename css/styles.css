@@ -770,6 +770,13 @@ header.scrolled {
   overflow: hidden;
 }
 
+.container .border{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 0 0 10px;
+  padding: 0 15px;
+}
+
 .contact-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
